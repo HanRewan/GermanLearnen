@@ -1,0 +1,1 @@
+python3 /media/matviiuk/DiskD/WorkPrograms/PyCharm/GermanLearnen/main.py $1

@@ -1,0 +1,1 @@
+python3 /media/matviiuk/DiskD/WorkPrograms/PyCharm/GermanLearnen/unRaw.py $1
